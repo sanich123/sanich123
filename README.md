@@ -23,9 +23,9 @@
 * [Trip service, app, where you can plan your trip](https://github.com/sanich123/bigTrip)
 
 **My certificats**:
-* [Layoutmaker](https://drive.google.com/file/d/107cjd6y-kZjv9jnB0aQuqul8mkVr7F3z/view?usp=share_link)
-* [FirstJs](https://drive.google.com/file/d/1UQf0h5kPPPtpvTOC6P-ZgPkmDUQEHwK_/view?usp=share_link)
-* [OOP](https://drive.google.com/file/d/1rTTaYEioAAbpVORRTsRV-AoNsrfrkfvx/view?usp=share_link)
-* [React](https://drive.google.com/file/d/1rTTaYEioAAbpVORRTsRV-AoNsrfrkfvx/view?usp=share_link)
-* [EPAM RSSchool](https://drive.google.com/file/d/1-ncI04VWCvUck_rBAowxNcLnFpEYoGjj/view?usp=share_link)
+* [HTML&CSS. Professional website coding](https://drive.google.com/file/d/107cjd6y-kZjv9jnB0aQuqul8mkVr7F3z/view?usp=share_link)
+* [JavaScript. Professional development of web-interfaces](https://drive.google.com/file/d/1UQf0h5kPPPtpvTOC6P-ZgPkmDUQEHwK_/view?usp=share_link)
+* [JavaScript. Professional development of web-interfaces](https://drive.google.com/file/d/1rTTaYEioAAbpVORRTsRV-AoNsrfrkfvx/view?usp=share_link)
+* [ReactJS](https://drive.google.com/file/d/1rTTaYEioAAbpVORRTsRV-AoNsrfrkfvx/view?usp=share_link)
+* [RSSchool. JavaScript Frontend](https://drive.google.com/file/d/1-ncI04VWCvUck_rBAowxNcLnFpEYoGjj/view?usp=share_link)
 
