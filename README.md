@@ -16,7 +16,8 @@
 <tbody>
 <tr>
   <td><a href="https://github.com/sanich123/keyboardTrainer">Клавиатурный тренажер</a></td>
-<td><a href="https://github.com/sanich123/onlineStore">Онлайн магазин</a></td>
+  <td><a href="https://github.com/sanich123/japanBooking">Сервис бронирования отелей в Японии</a></td>
+
   <td><a href="https://github.com/sanich123/technomart">Сайт магазина строительной техники</a></td>
 </tr>
   <tr>
@@ -26,7 +27,7 @@
 </tr>
     <tr>
   <td><a href="https://github.com/sanich123/sixCities">Сервис поиска отелей</a></td>
-<td><a href="https://github.com/sanich123/japanBooking">Сервис бронирования отелей в Японии</a></td>
+<td><a href="https://github.com/sanich123/onlineStore">Онлайн магазин</a></td>
       <td><a href="https://github.com/sanich123/CatsEnergy">Сайт кошачьего корма</a></td>
 </tr>
       <tr>
