@@ -5,6 +5,47 @@
 </h2>
 
 **My projects:**
+<table>
+<thead>
+<tr>
+  <th><b>ReactJS</b></th>
+  <th><b>Native JS</b></th>
+  <th><b>Верстка</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="https://github.com/sanich123/keyboardTrainer">KeyboardTrainer</a></td>
+<td><a href="https://github.com/sanich123/onlineStore">Online shop</a></td>
+  <td><a href="https://github.com/sanich123/technomart">Tekhnomart</a></td>
+</tr>
+  <tr>
+  <td><a href="https://github.com/sanich123/guitarShop">GuitarShop</a></td>
+<td><a href="https://github.com/sanich123/onlineStore">Online shop</a></td>
+    <td><a href="https://github.com/sanich123/onlineZoo">Online-zoo</a></td>
+</tr>
+    <tr>
+  <td><a href="https://github.com/sanich123/sixCities">SixCities</a></td>
+<td><a href="https://github.com/sanich123/japanBooking">Booking service</a></td>
+    <td></td>
+</tr>
+      <tr>
+  <td><a href="https://github.com/sanich123/whatToWatch">WhatToWatch</a></td>
+<td><a href="https://github.com/sanich123/songBird">Song-bird</a></td>
+    <td></td>
+</tr>
+        <tr>
+  <td><a href="https://github.com/sanich123/ligaBank">LigaBank</a></td>
+<td><a href="https://github.com/sanich123/bigTrip">BigTrip</a></td>
+    <td></td>
+</tr>
+          <tr>
+  <td></td>
+<td><a href="https://github.com/sanich123/gemPuzzle">GemPuzzle</a></td>
+    <td></td>
+</tr>
+</tbody>
+</table>
 
 **ReactJS:**
 
@@ -14,7 +55,7 @@
 * [WhatToWatch](https://github.com/sanich123/whatToWatch)
 * [LigaBank](https://github.com/sanich123/ligaBank)
 
-**Vanilla JavaScript:**
+**Native JS:**
 
 * [Online shop](https://github.com/sanich123/onlineStore)
 * [Shop](https://github.com/sanich123/technomart)
