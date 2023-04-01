@@ -15,7 +15,7 @@
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://github.com/sanich123/keyboardTrainer">Клавиатурный тренажер</a></td>
+  <td><a href="https://github.com/sanich123/keyboardTrainer">Клавиатурный тренажер слепой печати</a></td>
   <td><a href="https://github.com/sanich123/japanBooking">Сервис бронирования отелей в Японии</a></td>
 
   <td><a href="https://github.com/sanich123/technomart">Сайт магазина строительной техники</a></td>
