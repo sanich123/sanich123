@@ -4,10 +4,9 @@
   Frontend-developer
 </h2>
 
-<p align="center">I got interested in frontend development in 2020 and since that time I have been writing code all the time.</p>
-<p align="center">I don't have a technical background, but I am passionate, hardworking and very persistent.</p>
-<p align="center">I work in the teaching area and I am looking for a job as a software engineer.</p> 
-<p align="center">I want to find a company where I can grow, learn and apply the acquired knowledge and experience.</p>
+<p>I got interested in frontend development in 2020 and since that time I have been writing code all the time. I don't have a technical background, but I am passionate, hardworking and very persistent.</p>
+<p>I work in the teaching area and I am looking for a job as a software engineer.</p> 
+<p>I want to find a company where I can grow, learn and apply the acquired knowledge and experience.</p>
 
 <h3 align="center"><b>Projects:</b></h3>
 <table>
