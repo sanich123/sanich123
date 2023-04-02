@@ -4,6 +4,9 @@
   Frontend-developer
 </h2>
 
+<p>
+In 2020, I got interested in frontend development and since that time I have been writing code all the time. I do not have a technical background, but I am passionate, hardworking and very persistent. I work in the teaching field and am looking for a job as a software engineer</p>
+
 <h3 align="center"><b>Projects:</b></h3>
 <table>
 <thead>
