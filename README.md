@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alexander Voronin!</h1> 
 
 <h2 align="center">
-  Frontend-developer
+  Front End Developer
 </h2>
 
 <p>I got interested in frontend development in 2020 and since that time I have been writing code all the time. I don't have a technical background, but I am passionate, hardworking and very persistent.</p>
