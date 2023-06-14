@@ -39,9 +39,10 @@
 <td><a href="https://github.com/sanich123/bigTrip">Сервис планирования поездки</a></td>
   <td><a href="https://github.com/sanich123/ligaBank">Главная страница сайта банка</a></td>
 </tr>
-  <td></td>
+<tr>
+  <td><a href="https://github.com/sanich123/graphiql-app">GraphQl editor</td>
 <td><a href="https://github.com/sanich123/gemPuzzle">Игра пятнашки</a></td>
-    <td></td>
+    <td><a href="https://github.com/sanich123/Test-taskM18Studio">Test case M-18 studio</td>
 </tr>
 </tbody>
 </table>
