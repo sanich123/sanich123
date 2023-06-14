@@ -49,7 +49,8 @@
 
 <h3 align="center"><b>Education:</b></h3>
 
-* [RollingScopes school(Front-end)](https://drive.google.com/file/d/1-ncI04VWCvUck_rBAowxNcLnFpEYoGjj/view?usp=share_link)
+* [The RollingScopes school(React)](https://app.rs.school/certificate/1sbubqq8)
+* [The RollingScopes school(Front-end)](https://drive.google.com/file/d/1-ncI04VWCvUck_rBAowxNcLnFpEYoGjj/view?usp=share_link)
 * [React. Development of complex front-end applications](https://drive.google.com/file/d/1ssI-46rSJBBzKL-ActNSJIJ08Mt5Nsnc/view?usp=share_link)
 * [JavaScript. Professional development of web-interfaces](https://drive.google.com/file/d/1UQf0h5kPPPtpvTOC6P-ZgPkmDUQEHwK_/view?usp=share_link)
 * [JavaScript. Architecture of front-end apllications](https://drive.google.com/file/d/1rTTaYEioAAbpVORRTsRV-AoNsrfrkfvx/view?usp=share_link)
